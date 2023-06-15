@@ -5,7 +5,7 @@ Desarrollado completamente en Python, esta es una app para calculos complejos de
 Devolviendo desde graficos o datos de dispersion hasta el calculo automatico de intervalos. 
 
 ## 📥 Descarga
-Puede descargar el codigo de este proyecto o descargar el ejecutable que se encuentra en formato zip "EJECUTABLE ZIP", el cual incluye todas las librerias y modulos de modo que se podra ejecutar en cualquier computadora sin necesidad de tener Python.
+Puede descargar el codigo de este proyecto o descargar el ejecutable que se encuentra comprimido "STADISKIS SOFTWARE.rar", el cual incluye todas las librerias y modulos de modo que se podra ejecutar en cualquier computadora sin necesidad de tener Python.
 
 ## ⚠️ Reportes y sugerencias
 Si el programa presenta algún error que debería ser reportado para arreglarlo, si podría haber alguna nueva funcionalidad para agregar al programa, o si algo podría ser modificado, puedes hablarlo conmigo personalmente mediante mail karim.dev.tech@gmail.com
