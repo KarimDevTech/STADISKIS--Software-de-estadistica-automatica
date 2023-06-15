@@ -12,44 +12,26 @@ Si el programa presenta algún error que debería ser reportado para arreglarlo,
 
 ## 📸 Capturas de pantalla
 *Ventana del menú principal*
-![mainMenu](STADISKIS/capturas/Menu.png) 
 
-*Ventana del menú principal*
-![mainMenu](STADISKIS/capturas/sin.png) 
+![mainMenu](STADISKIS/capturas/Menu.png) 
 
 *Ventana para cargar datos sin intervalo*
 
-![s](STADISKIS/capturas/menusin.png)
-
-
-
-*Ventana para cargar datos con intervalo*
-
-![menuCon](STADISKIS/capturas/menucon.png)\
-
-
+![sin](STADISKIS/capturas/sin.png)
 
 
 *Ventana para cargar datos con intervalo*
 
-![menuCon](STADISKIS/capturas/menucon.png)\
+![con](STADISKIS/capturas/mcon.png)
 
-![s](STADISKIS/capturas/menusin.png)
+*Operación que genera BoxPlot*
 
+![boxplot](STADISKIS/capturas/boxplot.png)
 
+*Operación que genera tabla de frecuencias de datos con intervalo* 
 
-*Ventana para cargar datos con intervalo*
+![fr](STADISKIS/capturas/fr_i.png)
 
-![menuCon](STADISKIS/capturas/menucon.png)
-
-![s](STADISKIS/capturas/menusin.png)
-
-
-
-*Ventana para cargar datos con intervalo*
-
-![menuCon](STADISKIS/capturas/menucon.p
-![menuCon](STADISKIS/capturas/menucon.p
 
 
 
